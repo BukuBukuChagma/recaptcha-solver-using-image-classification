@@ -5,6 +5,7 @@ This project was a test to see if Image Classification can beat the results of O
 To test this project, follow the instructions below:
 1. Download the model from Google Drive and place it in the same directory. 
    Google Drive link for model : https://drive.google.com/file/d/13XPTlzM6Q2l69RehA8G5sHbhsAPbcO6p/view?usp=share_link
+   
    Google Drive link for classes file : https://drive.google.com/file/d/1-0IKnkoEkM2UTJu91HPK8vb6mt66xeuX/view?usp=share_link
    
 
