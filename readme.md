@@ -10,6 +10,7 @@ To test this project, follow the instructions below:
 
 3. Lastly you also need Chrome Driver for the version of Chrome Beta you are using. If latest version of chrome beta, then just download latest version of chrome driver.
    Link for chrome driver : https://chromedriver.chromium.org/downloads
+   
    You need to place this chrome driver in the same directory also.
 
 NOW YOU ARE GOOD TO GO!!
